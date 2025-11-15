@@ -58,6 +58,7 @@ Invoice date
 3. RFM Scoring
 
 - Each metric was ranked from 1 to 5
+- 
 4. Segmentation
 - The project includes:
 
@@ -70,6 +71,7 @@ Heatmap (Recency × Frequency) showing average Monetary value
 Total sales trend over time
 
 Country-wise sales summary
+
 #Tech Stack :
 
 - Python, Pandas, NumPy, Matplotlib, Seaborn
